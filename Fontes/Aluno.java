@@ -1,6 +1,6 @@
-public class Aluno extends Pessoa {
+public class Alunoz extends Pessoa {
 
-	private Matricula Lunetes;
+	private Matricula matricula;
 
 	public void SolicitarMatricula() {
 
